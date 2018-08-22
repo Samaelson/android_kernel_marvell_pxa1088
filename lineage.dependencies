@@ -1,0 +1,7 @@
+[
+    {
+        "repository": "android_kernel_marvell_pxa1088",
+        "target_path": "kernel/samsung/degaswifi"
+    }
+]
+
